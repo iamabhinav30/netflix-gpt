@@ -1,12 +1,11 @@
 
 import './App.css';
+import Body from './components/body';
 
 function App() {
   return (
     <>
-      <p className="text-3xl font-bold underline">
-        Namaste Everyone, lets build NetflixGPT
-      </p>
+      <Body />
     </>
   );
 }
