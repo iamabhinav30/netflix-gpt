@@ -1,7 +1,10 @@
 {
   "hosting": {
-    "site": "netflix-gpt-2107",
     "public": "build",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
   }
 }
